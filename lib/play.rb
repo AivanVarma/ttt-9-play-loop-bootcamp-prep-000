@@ -42,5 +42,6 @@ def play(board)
   while i < 10 do
     turn(board)
     i += 1
+    puts i
   end
 end
